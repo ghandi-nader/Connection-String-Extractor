@@ -1,0 +1,9 @@
+c:\users\ghnader\documents\visual studio 2013\Projects\ConStr\ConStr\bin\Debug\ConStr.exe.config
+c:\users\ghnader\documents\visual studio 2013\Projects\ConStr\ConStr\bin\Debug\ConStr.exe
+c:\users\ghnader\documents\visual studio 2013\Projects\ConStr\ConStr\bin\Debug\ConStr.pdb
+c:\users\ghnader\documents\visual studio 2013\Projects\ConStr\ConStr\obj\Debug\ConStr.csprojResolveAssemblyReference.cache
+c:\users\ghnader\documents\visual studio 2013\Projects\ConStr\ConStr\obj\Debug\ConStr.Form1.resources
+c:\users\ghnader\documents\visual studio 2013\Projects\ConStr\ConStr\obj\Debug\ConStr.Properties.Resources.resources
+c:\users\ghnader\documents\visual studio 2013\Projects\ConStr\ConStr\obj\Debug\ConStr.csproj.GenerateResource.Cache
+c:\users\ghnader\documents\visual studio 2013\Projects\ConStr\ConStr\obj\Debug\ConStr.exe
+c:\users\ghnader\documents\visual studio 2013\Projects\ConStr\ConStr\obj\Debug\ConStr.pdb
